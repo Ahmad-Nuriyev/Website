@@ -268,6 +268,17 @@
 
 /* Grid Section */
 
+.photogrid{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    height: 950px;
+    width: 83%;
+}
+
+.grid {
+    height: 324px;
+    width: 333px
+}
 
 
 /*Responsive*/
